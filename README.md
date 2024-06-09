@@ -38,8 +38,8 @@ This repository contains a excel spreadsheet designed to analyze various aspects
 
 ## Data Sources
 
-- The road accident data used in this analysis is sourced from [Kaggle](https://www.kaggle.com/).
-- If you're interested in accessing the raw data, it can be found [here](https://drive.google.com/file/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/view?pli=1).
+- The road accident data used in this analysis is sourced from [Kaggle](https://www.kaggle.com/)
+- If you're interested in accessing the raw data, it can be found [here](https://drive.google.com/file/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/view?pli=1)
 
 
 ## Usage
